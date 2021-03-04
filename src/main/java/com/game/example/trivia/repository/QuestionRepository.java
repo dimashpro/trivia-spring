@@ -1,7 +1,7 @@
-package com.tekwill.java.fundamentals.triviaspringboot.repository;
+package com.game.example.trivia.repository;
 
 
-import com.tekwill.java.fundamentals.triviaspringboot.domain.Question;
+import com.game.example.trivia.domain.Question;
 
 import java.util.List;
 

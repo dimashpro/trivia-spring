@@ -1,4 +1,4 @@
-package com.tekwill.java.fundamentals.triviaspringboot.domain;
+package com.game.example.trivia.domain;
 
 import lombok.Data;
 

@@ -1,4 +1,4 @@
-package com.tekwill.java.fundamentals.triviaspringboot.domain.exceptions;
+package com.game.example.trivia.domain.exceptions;
 
 public class EmptyQuestionTextException extends RuntimeException {
     public EmptyQuestionTextException(String s) {

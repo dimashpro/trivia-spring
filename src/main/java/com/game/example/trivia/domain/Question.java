@@ -1,9 +1,9 @@
-package com.tekwill.java.fundamentals.triviaspringboot.domain;
+package com.game.example.trivia.domain;
 
 
-import com.tekwill.java.fundamentals.triviaspringboot.domain.exceptions.EmptyQuestionTextException;
-import com.tekwill.java.fundamentals.triviaspringboot.domain.exceptions.InvalidLevelException;
-import com.tekwill.java.fundamentals.triviaspringboot.domain.exceptions.InvalidScoreException;
+import com.game.example.trivia.domain.exceptions.EmptyQuestionTextException;
+import com.game.example.trivia.domain.exceptions.InvalidLevelException;
+import com.game.example.trivia.domain.exceptions.InvalidScoreException;
 import lombok.Data;
 
 import java.util.ArrayList;

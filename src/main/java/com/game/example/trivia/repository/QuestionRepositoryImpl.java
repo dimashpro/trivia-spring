@@ -1,8 +1,8 @@
-package com.tekwill.java.fundamentals.triviaspringboot.repository;
+package com.game.example.trivia.repository;
 
 
-import com.tekwill.java.fundamentals.triviaspringboot.domain.Answer;
-import com.tekwill.java.fundamentals.triviaspringboot.domain.Question;
+import com.game.example.trivia.domain.Answer;
+import com.game.example.trivia.domain.Question;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;

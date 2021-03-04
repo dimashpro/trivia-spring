@@ -1,13 +1,13 @@
-package com.tekwill.java.fundamentals.triviaspringboot.engine;
+package com.game.example.trivia.engine;
 
-import com.tekwill.java.fundamentals.triviaspringboot.domain.Answer;
-import com.tekwill.java.fundamentals.triviaspringboot.domain.AskAudienceHelpOption;
-import com.tekwill.java.fundamentals.triviaspringboot.domain.AskFriendHelpOption;
-import com.tekwill.java.fundamentals.triviaspringboot.domain.FiftyFiftyHelpOption;
-import com.tekwill.java.fundamentals.triviaspringboot.domain.Question;
-import com.tekwill.java.fundamentals.triviaspringboot.repository.QuestionRepositoryImpl;
-import com.tekwill.java.fundamentals.triviaspringboot.service.QuestionService;
-import com.tekwill.java.fundamentals.triviaspringboot.service.QuestionServiceImpl;
+import com.game.example.trivia.domain.Answer;
+import com.game.example.trivia.domain.AskAudienceHelpOption;
+import com.game.example.trivia.domain.AskFriendHelpOption;
+import com.game.example.trivia.domain.FiftyFiftyHelpOption;
+import com.game.example.trivia.domain.Question;
+import com.game.example.trivia.repository.QuestionRepositoryImpl;
+import com.game.example.trivia.service.QuestionService;
+import com.game.example.trivia.service.QuestionServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Component;
 

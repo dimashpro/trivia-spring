@@ -1,7 +1,7 @@
-package com.tekwill.java.fundamentals.triviaspringboot.service;
+package com.game.example.trivia.service;
 
-import com.tekwill.java.fundamentals.triviaspringboot.domain.Question;
-import com.tekwill.java.fundamentals.triviaspringboot.repository.QuestionRepository;
+import com.game.example.trivia.domain.Question;
+import com.game.example.trivia.repository.QuestionRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

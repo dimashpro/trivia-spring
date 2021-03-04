@@ -1,7 +1,7 @@
-package com.tekwill.java.fundamentals.triviaspringboot.domain;
+package com.game.example.trivia.domain;
 
 
-import com.tekwill.java.fundamentals.triviaspringboot.domain.exceptions.EmptyAnswerTextException;
+import com.game.example.trivia.domain.exceptions.EmptyAnswerTextException;
 import lombok.Data;
 
 @Data
